@@ -3,4 +3,4 @@ project(c_practice C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(c_practice 5-1-4.c)
+add_executable(c_practice src/5/5-1-4.c)
